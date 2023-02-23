@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/zenbit_frontend/static/js/main.98c4d15d.js",
+    "static/media/map.png": "/zenbit_frontend/static/media/map.6b9a0ce85da368b99f7b.png",
+    "static/media/ApercuArabicPro-Regular.woff2": "/zenbit_frontend/static/media/ApercuArabicPro-Regular.9454d41e9c47cdaaa6a2.woff2",
+    "index.html": "/zenbit_frontend/index.html",
+    "main.98c4d15d.js.map": "/zenbit_frontend/static/js/main.98c4d15d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.98c4d15d.js"
+  ]
+}
